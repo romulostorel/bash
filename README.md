@@ -5,7 +5,7 @@ It was based on https://github.com/fnando/bash and https://github.com/adamv/dotf
 
 1) Clone the repository:
 
-	git clone git://github.com/sandroqz/bash.git ~/.bash
+	git clone git://github.com/romulostorel/bash.git ~/.bash
 
 2) Add the following line to your `~/.bash_profile`:
 
